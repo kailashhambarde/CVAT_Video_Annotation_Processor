@@ -12,4 +12,4 @@ CVAT Video Annotation Processor is a Python package designed to simplify the pro
 You can install CVAT Video Annotation Processor using pip:
 
 ```bash
-pip install CVAT-Video-Annotation-Processor
+pip install CVAT-Video-Annotation-Processor==0.0.1
