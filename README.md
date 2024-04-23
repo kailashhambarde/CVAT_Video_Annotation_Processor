@@ -1,2 +1,15 @@
-# CVAT_Video_Annotation_Processor
-CVAT_Video_Annotation_Processor: Open-source Python package for processing video data with CVAT annotations. Extract, manipulate, and analyze video ROIs effortlessly.
+# CVAT Video Annotation Processor
+
+CVAT Video Annotation Processor is a Python package designed to simplify the processing of video annotations generated using the Computer Vision Annotation Tool (CVAT).
+
+## Features
+
+- **XML Parsing**: Easily parse CVAT-generated XML annotation files.
+- **Video Processing**: Process annotated videos, extracting and saving regions of interest (ROIs) as separate video files.
+
+## Installation
+
+You can install CVAT Video Annotation Processor using pip:
+
+```bash
+pip install CVAT-Video-Annotation-Processor

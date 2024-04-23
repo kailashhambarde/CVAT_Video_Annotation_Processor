@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+CVAT_Video_Annotation_Processor.egg-info/PKG-INFO
+CVAT_Video_Annotation_Processor.egg-info/SOURCES.txt
+CVAT_Video_Annotation_Processor.egg-info/dependency_links.txt
+CVAT_Video_Annotation_Processor.egg-info/top_level.txt
+src/__init__.py
+src/video_processor.py
+src/xml_parser.py
