@@ -1,4 +1,4 @@
-# CVAT Video Annotation Processor
+# <span style="color:blue">CVAT Video Annotation Processor</span>
 
 CVAT Video Annotation Processor is a Python package designed to simplify the processing of video annotations generated using the Computer Vision Annotation Tool (CVAT).
 
